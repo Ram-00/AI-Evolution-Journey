@@ -1,0 +1,21 @@
+Here is content you can use for your `sample_knowledge.txt` file on the **History of Cricket in India**:
+
+**History of Cricket in India**
+
+Cricket was introduced to India by British colonial sailors in the early 18th century. The first recorded cricket match in India took place in 1721 near Baroda. During the 19th century, the game slowly gained popularity among Indian communities, especially the Parsis, who formed the first Indian cricket club, the Oriental Cricket Club, in Bombay in 1848.
+
+Through the late 19th and early 20th centuries, Indian cricket grew with city teams in Bombay, Calcutta, and Madras. The Quadrangular and later the Pentangular tournaments became famous, often based on communal lines (Hindus, Muslims, Europeans, Parsis, and others) in Bombay. The British continued to encourage cricket as a means of cultural engagement.
+
+India played its first official Test match in 1932 at Lord’s, becoming the sixth nation to achieve Test status. Although the early decades saw limited success and frequent defeats, cricket captured the imagination of the country.
+
+After independence in 1947, Indian cricket underwent transformation. Legendary players like Vijay Hazare, Polly Umrigar, and Vinoo Mankad became household names in the 1950s. The team gradually earned its first Test victory in 1952 against England in Madras.
+
+The 1970s marked a golden period, with players such as Sunil Gavaskar, Kapil Dev, and the famous spin quartet. India’s stunning win in the 1983 Cricket World Cup under Kapil Dev marked a watershed moment, making cricket the nation’s most popular sport and inspiring millions.
+
+The formation of the Board of Control for Cricket in India (BCCI) strengthened administration. Players like Sachin Tendulkar, Rahul Dravid, Sourav Ganguly, and Anil Kumble led a new era of professionalism and consistent international success through the 1990s and 2000s.
+
+India co-hosted the Cricket World Cup in 1987, 1996, and won the tournament again in 2011 under M.S. Dhoni. The rise of the Indian Premier League (IPL) in 2008 revolutionized world cricket, making India the commercial powerhouse of the sport.
+
+Cricket in India today is more than a game—it’s a national passion, followed by hundreds of millions. Indian teams, both men’s and women’s, continue to excel in all formats, and the sport reflects unity, diversity, and aspiration across the country.
+
+**This content is appropriate for your RAG demo and gives a clear, factual overview suitable for vector search and grounding.**
