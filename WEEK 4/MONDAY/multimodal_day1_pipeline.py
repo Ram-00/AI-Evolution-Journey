@@ -5,7 +5,7 @@ from typing import Optional
 from PIL import Image
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r"G:\RAM FILES\PROGRAM FILES\tesseract-ocr-w64-setup-5.5.0.20241111.exe"
+pytesseract.pytesseract.tesseract_cmd = r"G:\RAM FILES\PROGRAM FILES\tesseract.exe"
 
 import torch
 from transformers import BlipProcessor, BlipForConditionalGeneration
