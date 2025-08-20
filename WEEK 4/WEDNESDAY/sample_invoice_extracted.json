@@ -1,0 +1,10 @@
+{
+  "vendor": "[Company Name]",
+  "invoice_date": "2042-01-01",
+  "invoice_id": "[Company Name]",
+  "currency": "USD",
+  "subtotal": 551.56,
+  "tax": null,
+  "total": 551.56,
+  "notes": "Thank you fer your business! TOTAL"
+}
