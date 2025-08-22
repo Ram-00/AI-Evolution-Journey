@@ -1,0 +1,19 @@
+{
+  "pii_counts": {
+    "email": 0,
+    "phone": 0,
+    "invoice_id": 0,
+    "cc_hint": 0
+  },
+  "citation_validity": {
+    "valid_rate": 0.0,
+    "total_citations": 0
+  },
+  "sentence_grounding": {
+    "coverage": 0.0,
+    "total_sentences": 9
+  },
+  "retrieved_ids": [
+    "sample_doc.png#C1"
+  ]
+}
