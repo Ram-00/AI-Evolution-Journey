@@ -1,0 +1,9 @@
+{
+  "input_image": "sample_doc.png",
+  "task": "ASK_CLARIFY",
+  "rationale": "",
+  "dry_run": true,
+  "caption": "a white paper with a black and white price label",
+  "ocr_preview": "SAI MART\n\nMUMBAI\n21/08/2025\nAPPLES (1 kg) = 180.00\nATTA (5 kg) = 250.00\nMILK (1L) = 70.00\nSUBTOTAL 500.00\nGST (5%) 25.00\nTOTAL = 525.00\nPAYMENT METHOD\n\nUPI",
+  "tool_result": "ASK_CLARIFY: Please provide a clearer image or specify the goal."
+}
