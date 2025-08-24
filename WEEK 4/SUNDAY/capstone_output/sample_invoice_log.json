@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "image": "sample_invoice.png",
+  "question": "Summarize key entities (names, dates, totals) and cite the exact chunks.",
+  "retrieved_ids": [
+    "sample_invoice#C1"
+  ],
+  "answer": "Based on the retrieved OCR evidence, here is a summary of key entities:\n\n* Company Name: [Company Name] (sample_invoice#C1)\n* Phone Number: (200) 000-0000 (sample_invoice#C1)\n* Address: [Sreetaderess] [Oty st ZF) (sample_invoice#C1), [mal Address] (sample_invoice#C1)\n* Date: (2042) (sample_invoice#C1)\n* Total Amount: $551.56 (no chunk ID provided)\n\nPlease note that some information, such as the company name and address, are not explicitly stated in the evidence, but can be inferred from the context.",
+  "action": "EXTRACT_JSON",
+  "action_result": "[DRY-RUN] Would write: capstone_outputs\\sample_invoice.json\n---\n{\n  \"vendor\": \"[Company Name]\",\n  \"date\": \"2042-01-01\",\n  \"amount\": 551.56,\n  \"id\": null,\n  \"notes\": \"\"\n}",
+  "ocr_preview": "[Company Name]\n\n[SreetAderess]\n[Oty st ZF)\n\nINVOICE\n\n\u2018Phone: ([REDACTED_PHONE] WwoCee\n\nDATE\n\n(2042)\n\nEe\n\n==\n\n[CompanyName]\n[Sreetaderess]\n[Oty st ZF)\n[Phone]\n\n[mal Address]\n\n\u2018Service Fee\nator 5 hours aS 78ihe\n[New overt seceunt\n\nTax (425% afer discount\n\n20090\n\na890\n\nere)\n2m\n\n\u2018Thank you fer your business! TOTAL\n\n$s 551.56\n\nyou have anyquestons about tis incic, please contact\nName, Phone, emaig@address com]\n\nvars Tenpote6 201 Vetet2e0m",
+  "caption": "a sample invoice template for a business invoice",
+  "dry_run": true
+}
