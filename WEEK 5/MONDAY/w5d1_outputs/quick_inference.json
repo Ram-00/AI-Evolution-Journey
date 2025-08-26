@@ -1,0 +1,38 @@
+[
+  {
+    "text": "I\u2019m thrilled with the new release\u2014great job!",
+    "label": "pos",
+    "probs": [
+      0.0026000000070780516,
+      0.0027000000700354576,
+      0.994700014591217
+    ]
+  },
+  {
+    "text": "This is fine, but it didn\u2019t change much.",
+    "label": "neu",
+    "probs": [
+      0.44530001282691956,
+      0.5060999989509583,
+      0.04859999939799309
+    ]
+  },
+  {
+    "text": "Fantastic UI, but it crashes every hour. Please fix asap.",
+    "label": "neu",
+    "probs": [
+      0.13670000433921814,
+      0.5055999755859375,
+      0.357699990272522
+    ]
+  },
+  {
+    "text": "Yeah, amazing update\u2026 totally didn\u2019t break anything \ud83d\ude44",
+    "label": "pos",
+    "probs": [
+      0.004399999976158142,
+      0.006800000090152025,
+      0.9887999892234802
+    ]
+  }
+]
