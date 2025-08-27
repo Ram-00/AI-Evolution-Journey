@@ -1,0 +1,114 @@
+text,valence,arousal
+"I feel calm and content after wrapping up the report.",0.78,0.32
+"This is fine; nothing special happened today.",0.55,0.35
+"Absolutely thrilled about the launch tomorrow!",0.90,0.75
+"I'm frustrated that the build keeps failing.",0.22,0.68
+"The meeting was productive and everyone cooperated.",0.82,0.40
+"I'm nervous but hopeful before the presentation.",0.60,0.66
+"That joke was hilarious and lightened the mood.",0.88,0.52
+"Everything feels heavy and I'm a bit down.",0.25,0.38
+"It's okay; results are acceptable for now.",0.55,0.42
+"I'm exhausted and need a break.",0.28,0.30
+"The feedback was encouraging and helpful.",0.80,0.44
+"Why is this so slow? It's driving me mad.",0.18,0.72
+"We made steady progress—no blockers.",0.72,0.45
+"I'm anxious about the deadline slipping.",0.35,0.70
+"Fantastic teamwork; proud of the outcome!",0.92,0.60
+"I feel focused and in control.",0.75,0.38
+"I'm annoyed by the constant notifications.",0.30,0.58
+"What a relief—the tests finally passed.",0.83,0.48
+"I'm bored; nothing interesting to do.",0.40,0.20
+"So excited I can't sit still!",0.88,0.88
+"I feel indifferent about the update.",0.50,0.35
+"I'm grateful for the support from the team.",0.85,0.40
+"This bug again? You've got to be kidding.",0.22,0.64
+"Feeling peaceful after a short walk.",0.80,0.28
+"Overwhelmed with too many tasks at once.",0.30,0.82
+"I'm cautiously optimistic about the pilot.",0.66,0.48
+"The results were disappointing to see.",0.26,0.36
+"I feel refreshed after a good nap.",0.78,0.30
+"Tense and irritated by the delays.",0.20,0.66
+"It's manageable; I'll take it step by step.",0.62,0.42
+"My heart is racing—this is intense.",0.45,0.86
+"Proud moment for the whole group.",0.90,0.55
+"I'm skeptical this approach will work.",0.40,0.46
+"Calmly reviewing the plan for tomorrow.",0.70,0.28
+"Completely drained after back-to-back calls.",0.25,0.34
+"That was inspiring and uplifting.",0.88,0.50
+"I'm scared we're running out of time.",0.22,0.80
+"Nothing to report; status remains stable.",0.55,0.30
+"Laughing so hard my cheeks hurt.",0.93,0.70
+"A bit irritated but trying to stay polite.",0.38,0.52
+"Struggling to concentrate today.",0.32,0.40
+"Confident we can nail this feature.",0.82,0.56
+"I'm disappointed and need space.",0.24,0.33
+"Quietly satisfied with the outcome.",0.76,0.34
+"This is ridiculous—why isn't it fixed?",0.18,0.74
+"Content, sipping tea and reading.",0.75,0.25
+"Feeling jittery from too much coffee.",0.48,0.78
+"I appreciate the clarity in your notes.",0.80,0.36
+"A little uneasy about the scope creep.",0.45,0.58
+"I'm excited yet slightly overwhelmed.",0.65,0.76
+"The demo went better than expected!",0.87,0.62
+"Sigh… here we go again.",0.35,0.44
+"I'm motivated to push this over the line.",0.78,0.58
+"My patience is wearing thin.",0.28,0.60
+"Calm determination to solve this.",0.70,0.46
+"Feeling blue and not very talkative.",0.22,0.28
+"Energetic start to the day!",0.82,0.82
+"I'm fine… totally not upset at all.",0.40,0.55
+"The silence is comforting tonight.",0.72,0.22
+"I'm thrilled with the recognition!",0.92,0.64
+"Mildly annoyed by minor glitches.",0.45,0.50
+"Deeply worried about the metrics.",0.26,0.74
+"Relaxed focus during pair programming.",0.74,0.40
+"That email was harsh and demotivating.",0.30,0.52
+"I'm cheerful and ready to help.",0.86,0.46
+"Hands are shaking; this is nerve‑wracking.",0.32,0.88
+"Meh, it's acceptable I guess.",0.52,0.38
+"I'm relieved the outage is over.",0.80,0.48
+"Cranky from lack of sleep.",0.25,0.42
+"Feeling optimistic after the brainstorm.",0.82,0.54
+"I'm tense and on edge.",0.28,0.76
+"That was heartwarming to watch.",0.88,0.42
+"I'm confused and a bit lost.",0.38,0.50
+"Quietly hopeful about the review.",0.68,0.40
+"Fuming—this keeps getting worse.",0.15,0.84
+"I'm soothed by the background music.",0.72,0.26
+"Restless and impatient.",0.34,0.72
+"It was delightful chatting with you.",0.86,0.48
+"My enthusiasm is fading.",0.42,0.46
+"I'm panicking about the timeline!",0.18,0.90
+"Gentle satisfaction with steady progress.",0.76,0.36
+"Feeling touched by the kind words.",0.85,0.44
+"Irritated but still cooperative.",0.40,0.56
+"Nothing thrills me about this task.",0.38,0.34
+"Eager to try the new approach.",0.78,0.66
+"I feel safe and supported.",0.82,0.38
+"On the verge of tears from stress.",0.16,0.78
+"Lighthearted and playful.",0.88,0.52
+"Mind is racing; can't slow down.",0.36,0.86
+"Slightly uneasy but manageable.",0.50,0.56
+"I'm proud of how we handled it.",0.88,0.58
+"Deflated after the rejection.",0.24,0.32
+"Softly excited about the possibilities.",0.74,0.60
+"I'm resigned; it is what it is.",0.45,0.38
+"The vibe is chill and welcoming.",0.82,0.30
+"Burned out and mentally tired.",0.20,0.28
+"Playfully sarcastic—sure, great idea.",0.48,0.58
+"Hopeful the fix will land soon.",0.70,0.46
+"I'm uneasy about unexpected changes.",0.46,0.60
+"Quiet joy after solving a tricky bug.",0.84,0.40
+"Startled by the sudden alert.",0.40,0.82
+"Steady and composed under pressure.",0.66,0.48
+"I'm devastated about the outcome.",0.12,0.62
+"Giddy with excitement!",0.92,0.86
+"Centered and mindful, breathing slowly.",0.78,0.26
+"Annoyed yet determined to continue.",0.42,0.62
+"Content, sipping tea and reading.",0.76,0.24
+"I'm cautious and attentive.",0.58,0.44
+"Elated beyond words!",0.95,0.80
+"Dreading tomorrow's confrontation.",0.22,0.72
+"Warmly appreciative of your help.",0.86,0.40
+"On alert after that loud noise.",0.44,0.84
+"Satisfied and ready to wrap up.",0.80,0.42
