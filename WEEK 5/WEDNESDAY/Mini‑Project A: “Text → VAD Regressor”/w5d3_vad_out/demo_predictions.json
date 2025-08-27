@@ -1,0 +1,17 @@
+[
+  {
+    "text": "That meeting left me calm and satisfied.",
+    "valence": 0.655931830406189,
+    "arousal": 0.5581780076026917
+  },
+  {
+    "text": "I am furious this keeps breaking!",
+    "valence": 0.47252586483955383,
+    "arousal": 0.618181586265564
+  },
+  {
+    "text": "Excited but a bit nervous before the big pitch.",
+    "valence": 0.4111773669719696,
+    "arousal": 0.6016890406608582
+  }
+]
