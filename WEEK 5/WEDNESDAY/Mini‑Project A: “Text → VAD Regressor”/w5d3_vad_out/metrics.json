@@ -1,0 +1,17 @@
+{
+  "val": {
+    "eval_loss": 0.038922347128391266,
+    "eval_rmse_valence": 0.22207341120695995,
+    "eval_rmse_arousal": 0.16890257917856366,
+    "eval_mae_valence": 0.20388410985469818,
+    "eval_mae_arousal": 0.1442527323961258,
+    "eval_runtime": 0.9364,
+    "eval_samples_per_second": 19.222,
+    "eval_steps_per_second": 1.068,
+    "epoch": 3.0
+  },
+  "test": {
+    "rmse_v": 0.21237317537805225,
+    "rmse_a": 0.19205314500521384
+  }
+}
