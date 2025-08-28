@@ -1,8 +1,0 @@
-require_consent: true
-store_raw_inputs: false
-store_raw_media: false
-retain_days: 0
-abstain_threshold: 0.6
-allow_sensitive_inference: false
-enable_action_layer: true
-redaction_preview_maxlen: 240
