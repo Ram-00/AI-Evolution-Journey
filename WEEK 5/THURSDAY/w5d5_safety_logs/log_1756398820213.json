@@ -1,0 +1,6 @@
+{
+  "event": "refuse_no_consent",
+  "model": "distilbert-base-uncased-sentiment",
+  "version": "w5d5",
+  "purpose": "UX_improvement"
+}
