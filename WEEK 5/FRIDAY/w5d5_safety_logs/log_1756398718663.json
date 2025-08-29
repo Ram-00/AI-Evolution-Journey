@@ -1,0 +1,13 @@
+{
+  "event": "inference",
+  "model": "distilbert-base-uncased-sentiment",
+  "version": "w5d5",
+  "user_hash": "80fba0ae1c48e3978e43e4efc365e14e12ea0c830ba8ba5b9a2dafc7e3f2ab8b",
+  "preview": "Please stop emailing me at [REDACTED_EMAIL]",
+  "label": "neutral",
+  "confidence": 0.53,
+  "valence": 0.55,
+  "arousal": 0.4,
+  "abstain": true,
+  "action_policy": "ABSTAIN_LOW_CONF"
+}
