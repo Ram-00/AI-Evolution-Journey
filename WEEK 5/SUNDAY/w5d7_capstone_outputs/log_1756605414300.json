@@ -1,0 +1,19 @@
+{
+  "status": "ABSTAIN_LOW_CONF",
+  "preview": "I'm feeling really excited about this new project!",
+  "sentiment": {
+    "label": "pos",
+    "confidence": 0.34988805651664734,
+    "probs": [
+      0.3198,
+      0.3303,
+      0.3499
+    ]
+  },
+  "vad": {
+    "valence": 0.5112318992614746,
+    "arousal": 0.5295477509498596,
+    "confidence": 0.5
+  },
+  "ts": 1756605414.300566
+}
