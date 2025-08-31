@@ -1,0 +1,34 @@
+{
+  "status": "OK",
+  "preview": "I'm feeling sad and disappointed",
+  "sentiment": {
+    "label": "neg",
+    "confidence": 0.8848352432250977,
+    "probs": [
+      0.8848,
+      0.1004,
+      0.0148
+    ]
+  },
+  "vad": {
+    "valence": 0.1,
+    "arousal": 0.6,
+    "confidence": 0.990642249584198,
+    "emotion": "disgust",
+    "debug": {
+      "original_emotion": "disgust",
+      "corrected": false
+    }
+  },
+  "affect": {
+    "valence": 0.46,
+    "arousal": 0.509,
+    "zone": "engaged",
+    "tone": "neutral"
+  },
+  "action": {
+    "type": "WRITE_SUMMARY",
+    "path": "w5d7_capstone_outputs\\summary_1756607958.md"
+  },
+  "ts": 1756607958.6921954
+}

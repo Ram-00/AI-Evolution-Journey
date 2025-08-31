@@ -1,0 +1,30 @@
+{
+  "status": "OK",
+  "preview": "I'm feeling really excited about this new project!",
+  "sentiment": {
+    "label": "pos",
+    "confidence": 0.9903028607368469,
+    "probs": [
+      0.0028,
+      0.0069,
+      0.9903
+    ]
+  },
+  "vad": {
+    "valence": 0.2,
+    "arousal": 0.8,
+    "confidence": 0.9869309663772583,
+    "emotion": "fear"
+  },
+  "affect": {
+    "valence": 0.47,
+    "arousal": 0.529,
+    "zone": "engaged",
+    "tone": "neutral"
+  },
+  "action": {
+    "type": "WRITE_SUMMARY",
+    "path": "w5d7_capstone_outputs\\summary_1756607023.md"
+  },
+  "ts": 1756607023.8921382
+}
