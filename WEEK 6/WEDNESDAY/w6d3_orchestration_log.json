@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "request_id": "req-2025-09-03-001",
+    "policy_version": "w6d3_v1",
+    "backend": "simulator",
+    "shots": 1024,
+    "seed": 42
+  },
+  "slo": {
+    "max_latency_ms": 60,
+    "min_quality": 0.92,
+    "max_retries": 2,
+    "prefer_simulator": true,
+    "shots": 1024
+  },
+  "attempts": [
+    {
+      "attempt": 0,
+      "backend": "simulator",
+      "shots": 1024,
+      "value": 0.8811159089806194,
+      "latency_ms": 21,
+      "wall_ms": 14
+    },
+    {
+      "attempt": 1,
+      "backend": "qpu",
+      "shots": 1024,
+      "value": 0.8812307476891127,
+      "latency_ms": 43,
+      "wall_ms": 0
+    },
+    {
+      "attempt": 2,
+      "backend": "qpu",
+      "shots": 1024,
+      "value": 0.8819782874508864,
+      "latency_ms": 49,
+      "wall_ms": 0
+    }
+  ],
+  "decision": {
+    "source": "classical_fallback",
+    "value": 0.8806225319718818,
+    "latency_ms": 15
+  }
+}
