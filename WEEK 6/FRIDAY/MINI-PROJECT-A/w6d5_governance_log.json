@@ -1,0 +1,68 @@
+{
+  "run_id": "w6d5-0001",
+  "slo": {
+    "max_latency_ms": 60,
+    "min_quality": 0.92,
+    "max_retries": 2,
+    "shots": 1024,
+    "allow_fallback": true
+  },
+  "meta": {
+    "backend": "simulator",
+    "provider": "demo",
+    "qubits_used": 12,
+    "transpilation_level": 2,
+    "seed": 42,
+    "error_mitigation": "ZNE"
+  },
+  "attempts": [
+    {
+      "attempt": 0,
+      "backend": "simulator",
+      "shots": 1024,
+      "seed": 42,
+      "value": 0.8931788172568372,
+      "latency_ms": 23,
+      "wall_ms": 2,
+      "energy_proxy": {
+        "joules": 0.202048,
+        "usd_est": 6.06144e-08
+      }
+    },
+    {
+      "attempt": 1,
+      "backend": "qpu",
+      "shots": 1024,
+      "seed": 43,
+      "value": 0.8931788172568372,
+      "latency_ms": 58,
+      "wall_ms": 0,
+      "energy_proxy": {
+        "joules": 0.202048,
+        "usd_est": 6.06144e-08
+      }
+    },
+    {
+      "attempt": 2,
+      "backend": "qpu",
+      "shots": 1024,
+      "seed": 57,
+      "value": 0.8935147824045474,
+      "latency_ms": 59,
+      "wall_ms": 0,
+      "energy_proxy": {
+        "joules": 0.202048,
+        "usd_est": 6.06144e-08
+      }
+    }
+  ],
+  "decision": {
+    "source": "classical_fallback",
+    "value": 0.8807612965448413,
+    "latency_ms": 13,
+    "energy_proxy": {
+      "joules": 0.0,
+      "usd_est": 0.0
+    }
+  }
+}
